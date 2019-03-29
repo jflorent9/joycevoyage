@@ -1,3 +1,3 @@
-https://jflorent9.github.io/joycevoyage/.
+https://jflorent9.github.io/joycevoyage/
 
 # sitedevoyage
